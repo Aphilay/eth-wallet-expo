@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
     paddingBottom: 10,
   },
   keyStyle: {
-    fontSize: 20,
+    fontSize: 14,
     margin: 5,
     marginRight: 20,
     textAlign: "center",
